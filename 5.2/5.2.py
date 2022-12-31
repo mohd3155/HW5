@@ -1,4 +1,6 @@
 
+# EX1
+
 keys=['Ten','Twenty','Thirty']
 values=[10,20,30]
 
@@ -9,7 +11,7 @@ for item in range(len(keys)):
 
 print(dictionary)
 
-
+# EX2
 
 sample_dict ={
     "name": "kelly",
